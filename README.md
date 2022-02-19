@@ -11,7 +11,7 @@
 </p>
 
 <p align=center>
-  It is is <a href="https://github.com/pedro-isacss/analog-clock/blob/master/LICENSE">MIT licensed</a>
+  It is <a href="https://github.com/pedro-isacss/analog-clock/blob/master/LICENSE">MIT licensed</a>
 </p>
 
 <p align=center>
